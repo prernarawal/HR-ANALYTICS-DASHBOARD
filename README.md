@@ -1,2 +1,2 @@
-# HR-ANALYTICS-DASHBOARD
+# HR-ANALYTICS-DASHBOARD(POWER BI)
 The HR Analytics Project analyzes employee data to help HR teams make better decisions. It focuses on key metrics like attrition rates, satisfaction levels, performance scores, and department-wise distributions. Visual tools like bar charts and pie charts are used to clearly present trends in employee behavior, helping identify areas for improvement in retention and workforce planning.
